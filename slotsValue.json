@@ -1,0 +1,14 @@
+{
+  "slotAction":{
+    "values":["on","off"],
+    "errorMsg":"action is missing"
+    },
+  "slotRoomName":{
+    "values":["room","my room","kitchen"],
+    "errorMsg":"room name is missing"
+  },
+  "slotDevice":{
+    "values":["light","fan","lamp","alexa"],
+    "errorMsg":"room name is missing"
+  }
+}

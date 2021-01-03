@@ -1,0 +1,18 @@
+{
+  "alexa": {
+    "when":{
+      "slotRoomName":"kitchen",
+      "slotDevice":"alexa",
+      "slotAction":"on"
+    },
+    "extraMsg": "aapki alexa kuch seconds me ready ho jae gi , check karne k liye bole alexa"
+  },
+  "fan": {
+    "when":{
+      "slotRoomName":"kitchen",
+      "slotDevice":"fan",
+      "slotAction":"on"
+    },
+    "extraMsg": "to control speed of fan just day set speed 5"
+  }
+}
